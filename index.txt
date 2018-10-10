@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="author" content="Carlos Daniel Barranco">
+    <meta name="description" content="hoja de vida">
+    <meta name="keywords" content="Desarrollador Web, hoja de vida, NextU">
+    <title>Curriculum Vitae</title>
+  </head>
+  <body>
+    <header>
+    <svg>
+     <image xlink:href="Imagenes/Nuevo Logo NOMBRE.svg" width="500px" height="800px"></image>
+    </svg>
+    </header>
+
+   <ul>
+    <li><a href="../Paginas/educación.html">Educación</a></li>
+    <li><a href="../Paginas/experiencia.html">Experiencia</a></li>
+  </ul>
+
+  <h2>Información General</h2>
+  <img src="Imagenes/Foto Presentación.jpg" alt="C D B F" id="Foto presentación" width="350px" height="200px"></img>
+
+  <h3>Perfil</h3>
+  <p>Cuento con habilades para el aprendizaje autodidactico. Mis ideas
+son valiosas dentro de un grupo de trabajo, debido a que siempre
+deseo impulsar nuevas ideas innovadoras. Desde muy jóven he sido un
+apasionado de hacer trabajos bien realizados. La responsabilidad
+hace parte de los principios que me caracterizan.</p>
+  <br/>
+
+  </body>
+</html>
